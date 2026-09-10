@@ -68,7 +68,7 @@ independent human annotators on the same test set, none of whom got a box either
 
 **MedSAM: zero-shot vs. LoRA fine-tuned, same slice**
 ![MedSAM zero-shot predictions](docs/images/medsam_zeroshot.png)
-![MedSAM with LoRA fine-tuning](docs/images/lora.png)
+![MedSAM with LoRA fine-tuning](docs/images/lora.PNG)
 ---
 
 <!-- ## LoRA Rank Ablation
