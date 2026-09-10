@@ -1,0 +1,12 @@
+torch>=2.0
+torchvision>=0.15
+transformers>=4.40
+numpy
+pandas
+opencv-python
+scipy
+matplotlib
+tqdm
+SimpleITK
+pytest
+tabulate

@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pth
+.pytest_cache/
+
+# Generated data, checkpoints, and result artifacts
+data/
+checkpoints/
+results/
+notebooks/
+
+.ipynb_checkpoints/
+.DS_Store
+venv/
+env/
+*.egg-info/
+.env
