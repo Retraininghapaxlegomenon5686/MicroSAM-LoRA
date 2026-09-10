@@ -53,23 +53,35 @@ independent human annotators on the same test set, none of whom got a box either
 | Medical student | 0.832 |
 
 ---
-
 ## Visual Results
 
-**Data & annotator agreement**
+### Data & Annotator Agreement
+
 ![Raw micro-ultrasound slice with expert mask overlay](docs/images/data_overlay_sample.png)
 
-**UNet training — live loss curves and prediction preview**
+### UNet Training
+
+*Live loss curves and prediction preview*
+
 ![UNet training curves](docs/images/unet_training_curves.png)
 
-**UNet test-set failure and best cases**
+### UNet Test-Set Results
+
+*Best and worst test-set predictions*
+
 ![UNet best test predictions](docs/images/unet_test_gallery_best.png)
+
 ![UNet worst test predictions](docs/images/unet_test_gallery_worst.png)
 
-**MedSAM: zero-shot vs. LoRA fine-tuned, same slice**
+### MedSAM: Zero-Shot vs. LoRA Fine-Tuned
+
+#### MedSAM Zero-Shot
+
 ![MedSAM zero-shot predictions](docs/images/medsam_zeroshot.png)
-![MedSAM with LoRA fine-tuning](docs/images/lora.PNG)
----
+
+#### MedSAM with LoRA Fine-Tuning
+
+![MedSAM with LoRA fine-tuned predictions](docs/images/lora.PNG)
 
 <!-- ## LoRA Rank Ablation
 
